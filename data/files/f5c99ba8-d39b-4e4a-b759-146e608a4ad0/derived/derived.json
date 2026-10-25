@@ -1,0 +1,28 @@
+{
+  "format": "braindance.derived",
+  "version": 1,
+  "captureId": "f5c99ba8-d39b-4e4a-b759-146e608a4ad0",
+  "bakedAt": "2026-10-25T05:55:46.571Z",
+  "bakeVersion": "1.0.0+bd58c5c",
+  "files": {
+    "points": "points.pack",
+    "surface": "surface.pack",
+    "timeline": "timeline.pack",
+    "depth": "depth.bin",
+    "depthIndex": "depth.index.json"
+  },
+  "stats": {
+    "points": 499342,
+    "bakeMs": 2692,
+    "surfaceTriangles": 92259,
+    "timelineVoxels": 477
+  },
+  "timings": {
+    "validate": 11,
+    "depth": 626,
+    "points": 408,
+    "keyframes": 116,
+    "surface": 1425,
+    "timeline": 106
+  }
+}

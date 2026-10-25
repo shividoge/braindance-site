@@ -1,0 +1,22 @@
+{
+  "format": "braindance.derived",
+  "version": 1,
+  "captureId": "d824e2cb-7dc8-4b39-bef8-61b460f20c26",
+  "bakedAt": "2026-10-25T12:46:14.878Z",
+  "bakeVersion": "1.0.0+1668521",
+  "files": {
+    "points": "points.pack",
+    "depth": "depth.bin",
+    "depthIndex": "depth.index.json"
+  },
+  "stats": {
+    "points": 4809583,
+    "bakeMs": 6242
+  },
+  "timings": {
+    "validate": 29,
+    "depth": 17,
+    "points": 6172,
+    "keyframes": 24
+  }
+}
